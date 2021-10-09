@@ -1,0 +1,16 @@
+7/05/2017 Sunday
+
+Planning Strategy
+-----------------
+1 -> Game Loop *
+2 -> Images *
+3 -> Handlers and Managers *
+4 -> Background *
+5 -> Mario *
+6 -> Tile Spawner *
+7 -> Goomba Spawner *
+8 -> Mushroom Spawner *
+9 -> Pipe Spawner *
+10 -> Chompers *
+11 -> Turtle Spawners *
+12 -> Mapping Tiles
